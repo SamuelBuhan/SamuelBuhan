@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelBuhan
-- 👀 I’m interested in electronic
+- 👀 I’m interested in electronic, software programming and embedded software on microcontrolers.
 - 💞️ I’m looking to collaborate on c, c++ or python projects
 
 <!---
